@@ -9,9 +9,9 @@ category images, it will load a new page of images. When a user clicks on one of
 the text associated with that image is spoken aloud. The user can also create new categories as
 needed.
 
-AAC mappings are expected to be in the following format —
+AAC mappings files are expected to be in the following format —
 imgLocation categoryName
-> imgLocation textSpoken
+>imgLocation textSpoken
 
 
 
